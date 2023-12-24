@@ -1,0 +1,40 @@
+{
+  "name": "aulas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "a1": "nodemon ./aula_1/aula.js",
+    "e1": "nodemon ./aula_1/exercicio.js",
+    "r1": "nodemon ./aula_1/resolucao.js",
+    "a2": "nodemon ./aula_2/aula.js",
+    "e2": "nodemon ./aula_2/exercicio.js",
+    "r2": "nodemon ./aula_2/resolucao.js",
+    "a3": "nodemon ./aula_3/aula.js",
+    "e3": "nodemon ./aula_3/exercicio.js",
+    "r3": "nodemon ./aula_3/resolucao.js",
+    "a4": "nodemon ./aula_4/aula.js",
+    "e4": "nodemon ./aula_4/exercicio.js",
+    "r4": "nodemon ./aula_4/resolucao.js",
+    "a5": "nodemon ./aula_5/aula.js",
+    "e5": "nodemon ./aula_5/exercicio.js",
+    "r5": "nodemon ./aula_5/resolucao.js",
+    "a6": "nodemon ./aula_6/aula.js",
+    "e6": "nodemon ./aula_6/exercicio.js",
+    "r6": "nodemon ./aula_6/resolucao.js",
+    "a7": "nodemon ./aula_7/aula.js",
+    "e7": "nodemon ./aula_7/exercicio.js",
+    "r7": "nodemon ./aula_7/resolucao.js"
+  },
+  "keywords": [],
+  "author": "botechiadev<botechiadev>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
